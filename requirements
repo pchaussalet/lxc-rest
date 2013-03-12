@@ -1,0 +1,10 @@
+Flask==0.9
+Flask-RESTful==0.1.6
+Jinja2==2.6
+Werkzeug==0.8.3
+argparse==1.2.1
+distribute==0.6.24
+pycrypto==2.6
+pylxc==0.0.3
+uWSGI==1.4.9
+wsgiref==0.1.2
